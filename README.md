@@ -1,5 +1,5 @@
 # W04 - Baseline Action Score and Top-10 Review (ML-07)
-# Author: Denmark Tagomata
+Author: Denmark Tagomata
 
 Lane: Refresh / Content Opportunity Scoring
 
